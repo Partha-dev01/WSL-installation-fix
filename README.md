@@ -13,8 +13,8 @@ A robust PowerShell script that automates the Windows Subsystem for Linux (WSL) 
     git clone https://github.com/Partha-dev01/WSL-installation-fix
     ```
 
-> [!Note]
-> Do not run random scripts off the Internet, check what this script does before running it on your machine. 
+> [!Warning] 
+> Do not run random scripts off the Internet, check what this script does before running it on your machine. General explanation of this code is made available here. You can read about basic powershell commands used from this [gist](https://gist.github.com/Partha-dev01/9d6711e8c065d643c4d1a5ab14290c89).
 
 2. **Run the Installation**
 
