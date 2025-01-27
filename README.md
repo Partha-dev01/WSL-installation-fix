@@ -1,8 +1,12 @@
 
 
 
-# 🐧 WSL Automated Installation Script 
 
+# 🐧 WSL Automated Installation Script 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](README.md)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5.1-blue)](https://docs.microsoft.com/en-us/powershell/) 
+[![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://www.microsoft.com/windows/)
+<br>
 A robust PowerShell script that automates the Windows Subsystem for Linux (WSL) installation process with comprehensive error handling and system compatibility checks.
 
 ## 🚀 Quick Start
